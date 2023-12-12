@@ -1,0 +1,3 @@
+{
+  "configuration.sendSlackURL.description": "slack send hooks URL."
+}
